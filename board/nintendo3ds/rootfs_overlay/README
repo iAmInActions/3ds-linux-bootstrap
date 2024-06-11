@@ -1,0 +1,3 @@
+This is the 3ds-linux-bootstrap inital RAM disk.
+Any files placed here can be accessed by the autostart.sh script during the boot process.
+This can be useful if you plan to make bootable 3DS utilities like diagnostic software or embedded firmware for using the 3DS as a microcontroller or interface in an electronics project.
